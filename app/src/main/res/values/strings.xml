@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Personel Takip</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="add_staff">Add Staff</string>
+    <string name="list_of_staff">List of Staff</string>
+    <string name="date">Date</string>
+    <string name="name">Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="identification_no">Identification NO</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="surname">Surname</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="address">Address</string>
+    <string name="save">SAVE</string>
+    <string name="list_of_parts">List of Parts</string>
+    <string name="add_parts">Add Parts</string>
+    <string name="register">Register</string>
+    <string name="name_surname">Name Surname</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="settings">Settings</string>
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="select_camera">Camera</string>
+    <string name="select_gallery">Gallery</string>
+    <string name="select_cancel">Cancel</string>
+    <string name="barcode_no">Barcode No :</string>
+    <string name="parts_name">Parts Name</string>
+    <string name="parts_price">Parts Price</string>
+    <string name="parts_amount">Parts Amount</string>
+    <string name="read_barcode">Read barcode</string>
+    <string-array name="Roller">
+        <item>Seçiniz</item>
+        <item>Muhasebe</item>
+        <item>Güvenlik</item>
+        <item>Servis</item>
+        <item>Arge</item>
+        <item>Üretim</item>
+    </string-array>
+</resources>

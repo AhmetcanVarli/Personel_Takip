@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Personel Takip</string>
+    <string name="name">Ad</string>
+    <string name="password">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="add_staff">Personel Ekle</string>
+    <string name="list_of_staff">Personel Listesi</string>
+    <string name="date">Tarih</string>
+    <string name="user_name">Kullanıcı Adı</string>
+    <string name="select_date">Tarih Seçin</string>
+    <string name="identification_no">Kimlik NO</string>
+    <string name="birth_date">Doğum Günü</string>
+    <string name="surname">Soyad</string>
+    <string name="phone_number">Telefon Numarası</string>
+    <string name="address">Adres</string>
+    <string name="save">Kaydet</string>
+    <string name="list_of_parts">Parça Listesi</string>
+    <string name="add_parts">Parça Ekle</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="name_surname">Ad Soyad</string>
+    <string name="confirm_password">Şifre Onayla</string>
+    <string name="settings">Ayarlar</string>
+    <string name="man">Erkek</string>
+    <string name="woman">Kadın</string>
+    <string name="select_photo">Fotoğraf Seç</string>
+    <string name="select_camera">Kamera</string>
+    <string name="select_gallery">Galeri</string>
+    <string name="select_cancel">İptal</string>
+    <string name="barcode_no">Barkod No</string>
+    <string name="parts_name">Parça Adı</string>
+    <string name="parts_price">Parça Fiyatı</string>
+    <string name="parts_amount">Parça Adet</string>
+    <string name="read_barcode">"Barkod okut "</string>
+</resources>
